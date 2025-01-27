@@ -1,4 +1,24 @@
-body {background-color:tan;}
-h1{color:green;}
+/* Set body styles */
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    color: white;
+}
 
+/* Set h1 styles */
+h1 {
+    color: grey;
+    font-family: Verdana, sans-serif;
+}
 
+/* Define maindiv styles */
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    margin: auto; /* Center align the div on the page */
+    margin-top: 50px; /* Add some space from the top */
+}
